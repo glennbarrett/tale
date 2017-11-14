@@ -1,11 +1,10 @@
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      pretty
 
 # Setup
-title:          Tale
-paginate:       5
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Glenn's Blog
+paginate:       5"
+url:            "https://glennbarrett.github.io"
 
 # Assets
 sass:
@@ -17,14 +16,8 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
-
-# Custom vars
-version:        3.4.1
-github:
-  repo:         https://github.com/chesterhow/tale
+  name:         Glenn Barrett
+  url:          http://glennbarrett.com
 
 # Gems
 gems:
